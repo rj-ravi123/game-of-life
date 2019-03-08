@@ -168,11 +168,11 @@
             </plugins>
         </pluginManagement>
         <extensions>
-            <extension>
+            <!--    <extension>
                 <groupId>org.apache.maven.wagon</groupId>
                 <artifactId>wagon-webdav-jackrabbit</artifactId>
                 <version>2.2</version>
-            </extension>
+            </extension>-->
         </extensions>
     </build>
     <dependencyManagement>
